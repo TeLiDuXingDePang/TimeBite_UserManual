@@ -114,7 +114,7 @@ const HeroSection = () => {
                 <div className="grid md:grid-cols-2 gap-12 items-center">
                     <div className="md:order-1 order-2">
                         <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-truffle leading-tight">
-                            食光机 <span className="text-avocado">用户手册</span>
+                            食光机 <span className="text-avocado">使用手册</span>
                         </h1>
                         <p className="mt-6 text-lg md:text-xl text-gray-700 max-w-lg">
                             智能食材管理与食谱推荐小程序，帮助您管理食材库存、提供个性化食谱推荐和营养分析，让健康饮食更简单。

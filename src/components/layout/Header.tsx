@@ -37,7 +37,7 @@ const Header = () => {
                         className="flex items-center space-x-2"
                     >
                         <img src={logoIcon} alt="食光机Logo" className="w-8 h-8" />
-                        <span className="text-2xl font-serif font-bold text-truffle">食光机-使用手册</span>
+                        <span className="text-2xl font-serif font-bold text-truffle">食光机</span>
                     </a>
 
                     {/* 桌面端导航 */}
